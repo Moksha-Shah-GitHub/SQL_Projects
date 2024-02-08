@@ -1,6 +1,4 @@
 -- Name : Moksha Shah
--- Batch : 2:00 PM to 4:00 PM
--- Course : Python + SQL
 
 use soccer;
 
