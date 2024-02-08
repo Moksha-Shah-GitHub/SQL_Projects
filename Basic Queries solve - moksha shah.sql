@@ -1,5 +1,3 @@
--- Name : Moksha Shah
-
 use soccer;
 
 -- 1. From the following table, write a SQL query to count the number of venues for EURO cup
